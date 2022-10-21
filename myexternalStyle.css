@@ -1,0 +1,266 @@
+.myForm {
+  background-color: white;
+  width: 763px;
+  margin: auto;
+  margin-top: 13px;
+  padding: 30px;
+  padding-top: 10px;
+  text-align: left;
+  height: 540px;
+  max-height: 540px;
+  border-radius: 10px;
+  /* border: 2px solid #3C98AC; */
+  border: 2px solid #fafafa;
+  /* margin-left: 33%; */
+}
+
+.myDropdown {
+  /* margin-left:97px; */
+  width: 76% !important;
+  padding: 0px !important;
+}
+
+.myDropdowns1 {
+  /* margin-left:30px;
+    padding: 24px; */
+  margin-top: 3px;
+  width: 83% !important;
+}
+
+.myDropdownse {
+  /* margin-left:105px; */
+  width: 81% !important;
+  height: 26px !important;
+  /* padding: 24px; */
+}
+
+.input1 {
+  /* margin-left:10px!important; */
+  margin-left: 3px !important;
+}
+
+.input2 {
+  margin-left: 14px !important;
+}
+
+.mytextfiled {
+  margin-left: 130px;
+  margin-bottom: 15px;
+  padding: 5px;
+}
+
+.myHiddendiv {
+  display: none;
+}
+
+.mytextfileds {
+  /* margin-left:71px;*/
+  padding: 0px;
+  height: 31px !important;
+  width: 82%;
+}
+
+.mydevicecount {
+  height: 31px !important;
+  width: 64%;
+  margin-left: 4%;
+}
+
+.mylabeled {
+  width: 100%;
+  margin-left: 3%;
+}
+
+.mytextfiledse {
+  /* margin-left:49px; */
+  padding: 0px;
+  height: 29px;
+}
+
+.mybtn {
+  margin-left: 2% !important;
+  margin-right: 5px !important;
+  border-radius: 6px !important;
+  color: #fff !important;
+  background-color: #0d6efd !important;
+  border-color: #0d6efd !important;
+  box-shadow: none !important;
+  height: 35px !important;
+  width: 75px !important;
+
+}
+
+.mybtn:hover {
+  background-color: #0d6efd !important;
+  border: 1px solid #0d6efd !important;
+  color: #fff !important;
+}
+
+.myLabels {
+  font-size: 15px;
+}
+
+.textfieldfr {
+  /* margin-left:10px;  */
+  padding: 0px;
+  height: 29px;
+}
+
+.atrib1 {
+  width: 85% !important;
+  height: 35px !important;
+  border: 3px solid #17A2B8 !important;
+  border-radius: 6px !important;
+  margin-left: 0% !important;
+}
+
+.mysubmitbtn {
+  margin-left: 11% !important;
+  margin-top: 30px !important;
+}
+
+.stopbtn {
+  margin-left: -130px !important;
+  margin-right: -177px;
+  border-radius: 6px !important;
+  background-color: #f9423a !important;
+  color: #fff !important
+}
+
+.startbtn {
+  border-radius: 6px !important;
+  background-color: #0d6efd !important;
+  color: #fff !important
+}
+
+.mainComponent {
+  width: 763px;
+  display: flex;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.childComponent {
+  width: 45%;
+}
+
+.mylabel {
+  width: 100% !important;
+  margin-left: 1%;
+}
+
+.childComponentOption {
+  width: 100%;
+}
+
+
+.schmea {
+  width: 100%;
+}
+
+.timeDeliy {
+  margin-left: -1%;
+}
+
+.milisecondDeliy {
+  margin-left: 40%;
+}
+
+.mylabelshcema {
+  width: 100%;
+  margin-left: 2%;
+}
+
+.newClass {
+  cursor: none;
+  height: 29px;
+}
+
+.schemaData {
+  display: flex;
+}
+
+.atrib {
+
+  width: 84% !important;
+  height: 35px !important;
+  border: 3px solid #17A2B8 !important;
+  border-radius: 6px !important;
+  margin-top: 5px !important;
+}
+
+.popup-content {
+  margin: auto;
+  background: rgb(255, 255, 255);
+  width: 50%;
+  padding: 5px;
+  border: 1px solid #d7d7d7;
+}
+
+.popup-arrow {
+  color: rgb(255, 255, 255);
+}
+
+[role='tooltip'].popup-content {
+  width: 200px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
+  border-radius: 5px;
+}
+
+.popup-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+[data-popup='tooltip'].popup-overlay {
+  background: transparent;
+}
+
+.popup-arrow {
+  filter: drop-shadow(0 -3px 3px rgba(0, 0, 0, 0.16));
+  color: #fff;
+  stroke-width: 2px;
+  stroke: #d7d7d7;
+  stroke-dasharray: 30px;
+  stroke-dashoffset: -54px;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.modal_content {
+  background-color: white;
+  position: absolute;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.myhideen {
+  display: none;
+  height: 20px;
+  max-height: 20px;
+}
+
+.wrapper1 {
+  width: 539px;
+  max-width: 539px;
+  display: inline-block;
+}
+
+#hub_names option {
+  margin-right: 76%;
+}
+
+.selectedShemaDiv {
+  margin-top: 5px !important;
+}
+
+.fixeddata {
+  margin-top: 5px;
+
+}
